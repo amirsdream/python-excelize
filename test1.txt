@@ -1,0 +1,8 @@
+../
+1.2.3/
+1.2.4/
+http://192.168.0.73:8081/repository/maven-releases/test/test/maven-metadata.xml
+http://192.168.0.73:8081/repository/maven-releases/test/test/maven-metadata.xml.md5
+http://192.168.0.73:8081/repository/maven-releases/test/test/maven-metadata.xml.sha1
+http://192.168.0.73:8081/repository/maven-releases/test/test/maven-metadata.xml.sha256
+http://192.168.0.73:8081/repository/maven-releases/test/test/maven-metadata.xml.sha512
